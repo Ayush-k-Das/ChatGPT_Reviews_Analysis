@@ -1,4 +1,4 @@
--# 📊 ChatGPT Reviews Analysis
+# 📊 ChatGPT Reviews Analysis
 
 A comprehensive **sentiment and user feedback analysis** project on **ChatGPT app reviews**, leveraging **Natural Language Processing (NLP)** and **interactive visualizations** to uncover user satisfaction trends, common feedback themes, and overall Net Promoter Score (NPS).
 
